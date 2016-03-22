@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Writer Side of Life]]></title>
         <description><![CDATA[The Writer Side of Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-writer-side-of-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 14:18:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 14:37:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-writer-side-of-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3f17a88-e87d-4680-93fb-f3f5f444f0f3.jpg">]]></description>
+            <link>https://thegrid.ai/the-writer-side-of-life/267d462d-fde5-4e4b-aa28-b27b9575133e/index.html</link>
+            <guid isPermaLink="false">267d462d-fde5-4e4b-aa28-b27b9575133e</guid>
+            <pubDate>Tue, 22 Mar 2016 14:36:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17881f5f-7ff8-4aae-b639-137fa42b8a12.jpg">]]></description>
-            <link>undefinedcfda30a3-dd52-4636-9782-017e8c72d68f/index.html</link>
+            <link>https://thegrid.ai/the-writer-side-of-life/cfda30a3-dd52-4636-9782-017e8c72d68f/index.html</link>
             <guid isPermaLink="false">cfda30a3-dd52-4636-9782-017e8c72d68f</guid>
             <pubDate>Tue, 22 Mar 2016 14:17:05 GMT</pubDate>
         </item>
