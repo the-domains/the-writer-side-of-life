@@ -1,0 +1,28 @@
+name: The Writer Side of Life
+favicon: null
+layout_spectrum: 0.7607813619542867
+typography_spectrum: 0.9001905601471663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4006365623790771
+  lightness: 0.6924847061745822
+  saturation: 0.4230209400411695
+  rhythmicContrast: 0.2304588940460235
+purpose: []
